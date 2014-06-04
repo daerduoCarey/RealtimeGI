@@ -1,0 +1,446 @@
+<Material Name = "Glossy">
+	<type>Glossy</type>
+	<color>(0.8, 0.8, 0.8)</color>
+	<power>1.4</power>
+</Material>
+
+<Material Name = "Glossy1">
+	<type>Glossy</type>
+	<color>(0.5, 0.5, 0.75)</color>
+	<power>2.2</power>
+</Material>
+
+
+<Material Name = "Glossy2">
+	<type>Glossy</type>
+	<color>(0.75, 0.4, 0.4)</color>
+	<power>10</power>
+</Material>
+
+<Material Name = "EmissionWhiteWeak">
+	<type>Emissive</type>
+	<color>(2.25, 2.25, 2.25)</color>
+</Material>
+
+<Material Name = "DiffuseRed">
+	<type>Diffuse</type>
+	<color>(0.7765, 0.20392, 0.2549)</color>
+</Material>
+
+<Material Name = "DiffuseBlue">
+	<type>Diffuse</type>
+	<color>(0.192, 0.302, 0.5882)</color>
+</Material>
+
+<Material Name = "DiffuseGrey">
+	<type>Diffuse</type>
+	<color>(0.55294, 0.34901, 0.1647)</color>
+</Material>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Material Name = "DiffuseGreen">
+	<type>Diffuse</type>
+	<color>(0.25, 0.75, 0.25)</color>
+</Material>
+
+<Material Name = "DiffuseYellow">
+	<type>Diffuse</type>
+	<color>(0.75, 0.75, 0.25)</color>
+</Material>
+
+
+
+
+<Material Name = "DiffuseWhiteWeak">
+	<type>Diffuse</type>
+	<color>(0.9, 0.9, 0.9)</color>
+</Material>
+
+<Material Name = "DiffuseBlueWeak">
+	<type>Diffuse</type>
+	<color>(0.8, 0.8, 0.9)</color>
+</Material>
+
+
+
+
+<Material Name = "Refractive">
+	<type>Refractive</type>
+	<IOR>1.5</IOR>
+</Material>
+
+<Material Name = "Glass0">
+	<type>Refractive</type>
+	<coeff>1.5</coeff>
+</Material>
+
+<Material Name = "Glass1">
+	<type>Refractive</type>
+	<coeff>1.1</coeff>
+</Material>
+
+<Material Name = "Glass2">
+	<type>Refractive</type>
+	<coeff>2</coeff>
+</Material>
+
+<Material Name = "Glass3">
+	<type>Refractive</type>
+	<coeff>3</coeff>
+</Material>
+
+<Material Name = "Reflective">
+	<type>Reflective</type>
+</Material>
+
+<Material Name = "ReflectiveRed">
+	<type>Reflective</type>
+	<color>(0.9, 0.1, 0.1)</color>
+</Material>
+
+<Material Name = "ReflectiveBlue">
+	<type>Reflective</type>
+	<color>(0.1, 0.1, 0.9)</color>
+</Material>
+
+<Material Name = "ReflectiveGreen">
+	<type>Refractive</type>
+	<color>(0.1, 0.9, 0.1)</color>
+</Material>
+
+<Material Name = "RefractiveYellow">
+	<type>Refractive</type>
+	<decayColor>(0.9, 0.9, 0.1)</decayColor>
+</Material>
+
+
+<Material Name = "EmissionYellowVeryWeak">
+	<type>Emissive</type>
+	<color>(0.6, 0.6, 0.3)</color>
+</Material>
+
+
+
+
+<Material Name = "EmissionWhite">
+	<type>Emissive</type>
+	<color>(165, 165, 165)</color>
+</Material>
+
+<Material Name = "EmissionWhite2">
+	<type>Emissive</type>
+	<color>(145, 145, 145)</color>
+</Material>
+
+<Material Name = "EmissionWhite2">
+	<type>Emissive</type>
+	<color>(45, 45, 45)</color>
+</Material>
+
+<Material Name = "EmissionWhiteHigh">
+	<type>Emissive</type>
+	<color>(70, 70, 70)</color>
+</Material>
+
+<Material Name = "EmissionRed">
+	<type>Emissive</type>
+	<color>(50, 0, 0)</color>
+</Material>
+
+<Material Name = "EmissionBlue">
+	<type>Emissive</type>
+	<color>(0, 0, 50)</color>
+</Material>
+
+<Material Name = "EmissionGreen">
+	<type>Emissive</type>
+	<color>(0, 50, 0)</color>
+</Material>
+
+<Material Name = "EmissionWhiteWeak">
+	<type>Emissive</type>
+	<color>(0.9, 0.9, 0.9)</color>
+</Material>
+
+<Material Name = "EmissionWhiteIntensive">
+	<type>Emissive</type>
+	<color>(200, 200, 200)</color>
+</Material>
+
+<Material Name = "Volume">
+	<type>Volume</type>
+</Material>
+
+
+<Material Name = "DiffuseRedWeak">
+	<!-- Diffuse Specular Refractive Emissive Volume -->
+	<type>Diffuse</type>
+	<color>(0.25, 0.03, 0.03)</color>
+</Material>
+
+<Material Name = "DiffuseBlueWeak">
+	<type>Diffuse</type>
+	<color>(0.1, 0.1, 0.4)</color>
+</Material>
+
+<Material Name = "DiffuseGreenWeak">
+	<type>Diffuse</type>
+	<color>(0.1, 0.4, 0.1)</color>
+</Material>
+
+<Material Name = "DiffuseYellowWeak">
+	<type>Diffuse</type>
+	<color>(0.9, 0.8, 0.7)</color>
+</Material>
+
+<Material Name = "DiffuseGreyWeak">
+	<type>Diffuse</type>
+	<color>(0.45, 0.45, 0.4)</color>
+</Material>
+
+<Material Name = "SubA"> <!-- skin -->
+	<type>Volume</type>
+	<sigma_s>(7.4, 8.8, 10.1)</sigma_s> 
+	<sigma_a>(0.32, 1.7, 4.8)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+<Material Name = "SubHeteroSkin"> <!-- skin -->
+	<type>GridVolume</type>
+	<density_file>data/density__sin.xml</density_file>
+	<sigma_s>(7.4, 8.8, 10.1)</sigma_s> 
+	<sigma_a>(0.32, 1.7, 4.8)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<denstiy_scale>1</density_scale>
+	<g>0</g>
+</Material>
+
+ 
+<Material Name = "SubB"> <!-- Lemon tea -->
+	<type>Volume</type>
+	<sigma_s>(3.4, 5.8, 8.8)</sigma_s> 
+	<sigma_a>(2.6, 4.9, 7.7)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+
+
+<Material Name = "SubC"> <!-- milk -->
+	<type>Volume</type>
+	<sigma_s>(2.4, 2.7, 4.5)</sigma_s> 
+	<sigma_a>(0.001, 0.005, 0.034)</sigma_a>
+	<IOR>1.5</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+
+
+<Material Name = "HeteroSubA"> <!-- skin -->
+	<type>GridVolume</type>
+	<density_file>data/sinXYZ.xml</density_file>
+	<sigma_s>(7.4, 8.8, 10.1)</sigma_s> 
+	<sigma_a>(0.32, 1.7, 4.8)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<density_scale>1</density_scale>
+	<g>0</g>
+</Material>
+ 
+<Material Name = "HeteroSubB"> <!-- Lemon tea -->
+	<type>GridVolume</type>
+	<density_file>data/constant.xml</density_file>
+	<sigma_s>(3.4, 5.8, 8.8)</sigma_s> 
+	<sigma_a>(2.6, 4.9, 7.7)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<density_scale>1</density_scale>
+	<g>0</g>
+</Material>
+
+<Material Name = "HeteroSubC"> <!-- milk -->
+	<type>GridVolume</type>
+	<density_file>data/sinXYZ.xml</density_file>
+	<sigma_s>(2.4, 2.7, 4.5)</sigma_s> 
+	<sigma_a>(0.001, 0.005, 0.034)</sigma_a>
+	<IOR>1.5</IOR>
+	<stepsize>0.0005</stepsize>
+	<density_scale>1</density_scale>
+	<g>0</g>
+</Material>
+
+<Material Name = "SubD"> <!-- skin -->
+	<type>Volume</type>
+	<sigma_s>(7.4, 8.8, 20.1)</sigma_s> 
+	<sigma_a>(0.32, 1.7, 4.8)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+
+<Material Name = "SubE"> <!-- skin -->
+	<type>Volume</type>
+	<sigma_s>(8.8, 10.1, 13.1)</sigma_s> 
+	<sigma_a>(1.32, 0.7, 4.8)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+<Material Name = "SubF"> <!-- skin -->
+	<type>Volume</type>
+	<sigma_s>(3.8, 10.1, 3.1)</sigma_s> 
+	<sigma_a>(3.32, 0.7, 4.8)</sigma_a>
+	<IOR>1.5</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+<Material Name = "SubAA"> <!-- skin -->
+	<type>Volume</type>
+	<sigma_s>(10.1, 8.8, 7.4)</sigma_s> 
+	<sigma_a>(0.32, 1.7, 4.8)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+ 
+<Material Name = "SubBB"> <!-- Lemon tea -->
+	<type>Volume</type>
+	<sigma_s>(5.8, 8.8, 3.4)</sigma_s> 
+	<sigma_a>(2.6, 4.9, 7.7)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+<Material Name = "SubCC"> <!-- skin -->
+	<type>Volume</type>
+	<sigma_s>(7.4, 8.8, 20.1)</sigma_s> 
+	<sigma_a>(0.32, 1.7, 4.8)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+<Material Name = "SubWineA"> <!-- skin -->
+	<type>Volume</type>
+	<sigma_s>(7.1, 2.9, 7.0)</sigma_s> 
+	<sigma_a>(3.6, 9.6, 4.6)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+ 
+<Material Name = "SubWineB"> <!-- Lemon tea -->
+	<type>Volume</type>
+	<sigma_s>(5.8, 8.8, 3.4)</sigma_s> 
+	<sigma_a>(2.6, 4.9, 7.7)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+<Material Name = "SubWineC"> <!-- skin -->
+	<type>Volume</type>
+	<sigma_s>(3.4, 18.8, 3.1)</sigma_s> 
+	<sigma_a>(3.2, 1.7, 4.8)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.0005</stepsize>
+	<g>0</g>
+</Material>
+
+
+<Material Name = "SubWineVol"> 
+	<type>Volume</type>
+	<sigma_s>(8.8, 4.8, 3.4)</sigma_s> 
+	<sigma_a>(2.6, 4.9, 3.7)</sigma_a>
+	<IOR>1.2</IOR>
+	<stepsize>0.002</stepsize>
+	<g>0.8</g>
+</Material>
+
+
+<Material Name = "SubDragonVol">  
+	<type>Volume</type>
+	<sigma_s>(275.8, 252.9, 240.8)</sigma_s> 
+	<sigma_a>(14.6, 14.9, 16.7)</sigma_a>
+	<IOR>1.5</IOR>
+	<stepsize>0.002</stepsize>
+	<g>-0.3</g>
+</Material>
+
+<Material Name = "SubBuddhaVol">  
+	<type>Volume</type>
+	<sigma_s>(305.8, 352.9, 340.8)</sigma_s> 
+	<sigma_a>(17.6, 19.9, 20.7)</sigma_a>
+	<IOR>1.5</IOR>
+	<stepsize>0.002</stepsize>
+	<g>0.4</g>
+</Material>
+
+<Material Name = "SubBoxVol">  
+	<type>Volume</type>
+	<sigma_s>(210.920,  215.345, 202.768)</sigma_s> 
+	<sigma_a>(13, 13, 11)</sigma_a>
+	<IOR>1.3</IOR>
+	<stepsize>0.002</stepsize>
+	<g>-0.3</g>
+</Material>
+
+<Material Name = "SubBunnyVol">  
+	<type>Volume</type>
+	<sigma_s>(240.8, 275.9, 252.8)</sigma_s> 
+	<sigma_a>(14.6, 14.9, 16.7)</sigma_a>
+	<IOR>1.5</IOR>
+	<stepsize>0.002</stepsize>
+	<g>0</g>
+</Material>
+
+<Material Name = "SubTeapotVol">  
+	<type>Volume</type>
+	<sigma_s>(275, 275, 240.8)</sigma_s> 
+	<sigma_a>(24.6, 17.9, 16.7)</sigma_a>
+	<IOR>1.5</IOR>
+	<stepsize>0.002</stepsize>
+	<g>-0.3</g>
+</Material>
+
+<Material Name = "SubMonkeyVol">  
+	<type>Volume</type>
+	<sigma_s>(175.8, 232.9, 190.8)</sigma_s> 
+	<sigma_a>(24.6, 24.9, 26.7)</sigma_a>
+	<IOR>1.5</IOR>
+	<stepsize>0.002</stepsize>
+	<g>0.3</g>
+</Material>
+
+
+
+

@@ -1,0 +1,9 @@
+<Config>
+	<Scene>
+		<path>Scene_test.xml</path>
+		<name>CornellBox</name>
+		<camera>c1</camera>
+	</Scene>
+	<renderer>PT</renderer>
+	<iter>2000000</iter>
+</Config>
